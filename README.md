@@ -1,18 +1,30 @@
-# 💬 Post & Like App
+# 💬 Post & Like App (Flutter + Firebase)
 
-A clean Flutter app using **Firebase Authentication** and **Cloud Firestore**, allowing users to post messages, view others’ posts, and like them. Built using simple **CRUD operations** — perfect for beginners and learning Firebase integration.
+A clean Flutter app using **Firebase as the backend**, allowing users to **post messages**, **view others’ posts**, and **like them**. Built using simple **CRUD operations** with Firestore and Firebase Authentication. Great for learning full-stack Flutter with Firebase backend integration.
+
+---
+
+## 🧠 Backend - Firebase
+
+This app uses **Firebase as the backend**, including:
+
+- 🔐 **Firebase Authentication** for login and signup
+- 🗃️ **Cloud Firestore** to store and manage posts
+- 💾 **Realtime updates** using Firestore streams
+- 📡 **No need for custom backend servers**
+
+All CRUD operations (Create, Read, Update, Delete) are done using Firestore documents and collections.
 
 ---
 
 ## 🚀 Features
 
 ✅ Firebase Authentication (Login/Signup)  
-✅ Post Messages (Create, Read, Update, Delete)  
-✅ Like Other Users' Posts  
 ✅ Cloud Firestore Realtime Database  
-✅ Clean UI with Flutter Widgets  
-✅ Organized Code Structure  
-✅ Simple and Beginner-Friendly  
+✅ Post Messages (CRUD)  
+✅ Like Other Users' Posts  
+✅ Clean Flutter UI with Widgets  
+✅ Simple and Beginner-Friendly Architecture  
 
 ---
 
@@ -27,6 +39,7 @@ dependencies:
   firebase_core: ^2.0.0
   firebase_auth: ^4.0.0
   cloud_firestore: ^4.0.0
+
 
 
 ## 📁 Project Structure
