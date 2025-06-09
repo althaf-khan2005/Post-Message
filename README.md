@@ -68,7 +68,7 @@ dependencies:
 
 ```
 
-🔐 Authentication Flow
+## 🔐 Authentication Flow
 
 1.Login/Register → User logs in or signs up via Firebase Auth
 
@@ -100,6 +100,22 @@ dependencies:
    flutter 
 
 ## Screenshots 
+
+![Image](https://github.com/user-attachments/assets/df4997b2-2708-4c4c-af77-59d6a415bb2c)
+
+![Image](https://github.com/user-attachments/assets/b053e0f3-801f-4d61-9da6-29727c4c7060)
+
+![Image](https://github.com/user-attachments/assets/bdad3f18-4f72-4d2c-834f-472499b6e4c6)
+
+![Image](https://github.com/user-attachments/assets/5bca3a7b-e1e0-4573-8ac7-e619f120cd51)
+
+![Image](https://github.com/user-attachments/assets/0544cb22-8738-4ab5-8460-1a872dfcda02)
+
+![Image](https://github.com/user-attachments/assets/c00ac8a4-b85a-4495-a89c-2fb15a2e2c08)
+
+![Image](https://github.com/user-attachments/assets/99ee56be-d20e-4412-b57d-66470bba972e)
+
+![Image](https://github.com/user-attachments/assets/94b31baf-31f8-4c66-ac88-bf4c22ea3ef3)
 
 
 
