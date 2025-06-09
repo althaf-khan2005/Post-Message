@@ -85,12 +85,12 @@ dependencies:
 
 ## How to run 
 
-1. Clone the repo
-  ```sh
-  git clone https://github.com/yourusername/post_like_app.git
-  cd post_like_app
-  ```
+1. Clone the repo  
+   ```sh
+   git clone https://github.com/althaf-khan2005/post_like_app.git
+   cd post_like_app
 
+   ```
 2. Install dependencies  
    ```sh
    flutter pub get
@@ -107,7 +107,6 @@ dependencies:
 
 ![Image](https://github.com/user-attachments/assets/bdad3f18-4f72-4d2c-834f-472499b6e4c6)
 
-![Image](https://github.com/user-attachments/assets/5bca3a7b-e1e0-4573-8ac7-e619f120cd51)
 
 ![Image](https://github.com/user-attachments/assets/0544cb22-8738-4ab5-8460-1a872dfcda02)
 
