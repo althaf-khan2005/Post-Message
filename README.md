@@ -39,6 +39,7 @@ dependencies:
   firebase_core: ^2.0.0
   firebase_auth: ^4.0.0
   cloud_firestore: ^4.0.0
+```
 
 
 
