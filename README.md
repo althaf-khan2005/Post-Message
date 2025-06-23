@@ -40,12 +40,12 @@ dependencies:
   firebase_auth: ^4.0.0
   cloud_firestore: ^4.0.0
 
-
+```
 
 
 ## 📁 Project Structure
 
-
+```
 /lib
 │── main.dart
 │── firebase_options.dart
